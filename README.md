@@ -5,7 +5,7 @@
 2. Freie Universität Berlin, Germany.
 3. Université de Lausanne, Switzerland.
 
-[![DOI](https://zenodo.org/badge/174346489.svg)](https://zenodo.org/badge/latestdoi/174346489)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2587018.svg)](https://doi.org/10.5281/zenodo.2587018)
 
 ## ABOUT
 
@@ -13,7 +13,7 @@ Diachronic, inductive mapping of inter-organizational practices between eight ma
 
 To cite this data set: 
 
-> BAHR T., GRANDJEAN M., HOLZSCHEITER A. and PANTZERHIELM L. (2019). *Data for the Study of Global Health Governance*, Data set, https://github.com/global-health/data. DOI: [10.5281/zenodo.2587019](https://zenodo.org/badge/latestdoi/174346489)
+> BAHR T., GRANDJEAN M., HOLZSCHEITER A. and PANTZERHIELM L. (2019). *Data for the Study of Global Health Governance*, Data set, https://github.com/global-health/data. DOI: [10.5281/zenodo.2587018](https://doi.org/10.5281/zenodo.2587018)
 
 ## DATA
 ### Inter-organizational practices over time
