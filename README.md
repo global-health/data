@@ -12,7 +12,7 @@ Description
 
 To cite this data set: 
 
-> GRANDJEAN Martin (2019). *Governance of Global Health Data*, Data set, https://github.com/global-health/data. DOI [DOI](DOI)
+> BAHR T., GRANDJEAN M., HOLZSCHEITER A. and PANTZERHIELM L. (2019). *Governance of Global Health Data*, Data set, https://github.com/global-health/data. DOI [DOI](DOI)
 
 ## Data
 Files
