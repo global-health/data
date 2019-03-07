@@ -5,6 +5,8 @@
 2. Freie Universität Berlin, Germany.
 3. Université de Lausanne, Switzerland.
 
+<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/Illustration.pngg" alt="Data Visualization" width="" align="">
+
 ## ABOUT
 
 Diachronic, inductive mapping of inter-organizational practices between eight major health international organisations (Gavi, the Global Fund, UNAIDS, UNDP, UNFPA, UNICEF, WHO, the World Bank) for the time period 1970-2013 (extracted from annual reports).
