@@ -5,7 +5,7 @@
 2. Freie Universität Berlin, Germany.
 3. Université de Lausanne, Switzerland.
 
-<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/Illustration.pngg" alt="Data Visualization" width="" align="">
+<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/Illustration.png" alt="Data Visualization" width="" align="center">
 
 ## ABOUT
 
