@@ -6,7 +6,8 @@
 3. Université de Lausanne, Switzerland.
 
 ## ABOUT
-Description
+
+Diachronic, inductive mapping of inter-organizational practices between eight major health international organisations (Gavi, the Global Fund, UNAIDS, UNDP, UNFPA, UNICEF, WHO, the World Bank) for the time period 1970-2013 (extracted from annual reports).
 
 To cite this data set: 
 
