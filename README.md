@@ -1,5 +1,5 @@
 # Data for the Study of Global Health Governance
-**Bahr Thurid** (1,2), **Grandjean Martin** (3), **Holzscheiter Anna** (1,2), **Pantzerhielm Laura** (1,2).
+**Bahr Thurid** (1), **Grandjean Martin** (3), **Holzscheiter Anna** (1,2), **Pantzerhielm Laura** (1,2).
 
 1. Wissenschaftszentrum Berlin für Sozialforschung, Germany.
 2. Freie Universität Berlin, Germany.
