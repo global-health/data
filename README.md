@@ -1,4 +1,4 @@
-# Data for the Study of Global Health Governance
+# Inter-Organizational Practices in Global Health, 1970-2013
 **Holzscheiter Anna** (1,2), **Bahr Thurid** (2), **Grandjean Martin** (3), **Pantzerhielm Laura** (1,2).
 
 1. Wissenschaftszentrum Berlin für Sozialforschung, Germany.
@@ -13,7 +13,7 @@ Diachronic, inductive mapping of inter-organizational practices between eight ma
 
 To cite this data set: 
 
-> HOLZSCHEITER A., BAHR T., GRANDJEAN M. and PANTZERHIELM L. (2019). *Data for the Study of Global Health Governance*, Data set, https://github.com/global-health/data. DOI: [10.5281/zenodo.2587018](https://doi.org/10.5281/zenodo.2587018)
+> HOLZSCHEITER A., BAHR T., GRANDJEAN M. and PANTZERHIELM L. (2019). *Inter-Organizational Practices in Global Health, 1970-2013*, Data set, https://github.com/global-health/data. DOI: [10.5281/zenodo.2587018](https://doi.org/10.5281/zenodo.2587018)
 
 ## DATA
 ### Inter-organizational practices over time
