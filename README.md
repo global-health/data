@@ -18,9 +18,11 @@ To cite this data set:
 ## DATA
 ### Inter-organizational practices over time
 
-**> FILE 1** ([data1.csv](https://github.com/global-health/data/blob/master/files/Data1.csv)): CSV file with 77 columns (practices) and 44 lines (years)
+**> FILE 1** ([data1.csv]): CSV file with 77 columns (practices) and 44 lines (years)
 
-**> FILE 2** ([data2.csv](https://github.com/global-health/data/blob/master/files/Data2.csv)): CSV file with 8 columns (practices aggregated in groups) and 44 lines (years)
+**> FILE 2** ([data2.csv]): CSV file with 8 columns (practices aggregated in groups) and 44 lines (years)
+
+Note: files to be added simultaneously to the publication.
 
 ### Relations between international organizations
 
