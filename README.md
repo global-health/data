@@ -1,9 +1,10 @@
 # Inter-Organizational Practices in Global Health, 1970-2013
-**Holzscheiter Anna** (1,2), **Bahr Thurid** (2), **Grandjean Martin** (3), **Pantzerhielm Laura** (1,2).
+**Holzscheiter Anna** (1,2), **Bahr Thurid** (2,3), **Grandjean Martin** (4), **Pantzerhielm Laura** (1,2).
 
-1. Wissenschaftszentrum Berlin für Sozialforschung, Germany.
-2. Freie Universität Berlin, Germany.
-3. Université de Lausanne, Switzerland.
+1. Technische Universität Dresden, Germany.
+2. Wissenschaftszentrum Berlin für Sozialforschung, Germany.
+3. Freie Universität Berlin, Germany.
+4. Université de Lausanne, Switzerland.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2587018.svg)](https://doi.org/10.5281/zenodo.2587018)
 
