@@ -1,4 +1,4 @@
-# Inter-Organizational Practices in Global Health, 1970-2013
+# Inter-Organizational Practices in Global Health
 **Holzscheiter Anna** (1,2), **Bahr Thurid** (2,3), **Grandjean Martin** (4), **Pantzerhielm Laura** (1,2).
 
 1. Technische Universität Dresden, Germany.
@@ -14,10 +14,10 @@ Diachronic, inductive mapping of inter-organizational practices between eight ma
 
 To cite this data set: 
 
-> HOLZSCHEITER A., BAHR T., GRANDJEAN M. and PANTZERHIELM L. (2019). *Inter-Organizational Practices in Global Health, 1970-2013*, Data set, https://github.com/global-health/data. DOI: [10.5281/zenodo.2587018](https://doi.org/10.5281/zenodo.2587018)
+> HOLZSCHEITER A., BAHR T., GRANDJEAN M. and PANTZERHIELM L. (2019). *Inter-Organizational Practices in Global Health*, Data set, https://github.com/global-health/data. DOI: [10.5281/zenodo.2587018](https://doi.org/10.5281/zenodo.2587018)
 
 ## DATA
-### Inter-organizational practices over time
+### Inter-organizational practices over time (1970-2013)
 
 **> FILE 1** ([data1.csv](https://github.com/global-health/data/blob/master/files/Data1.csv)): CSV file with 77 columns (practices) and 44 lines (years)
 
