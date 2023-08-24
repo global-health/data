@@ -33,7 +33,7 @@ To cite this data set:
 
 ### IN/OUT Reporting by International Organizations (1970-2017)
 
-**> FILE 6** ([data5.csv](https://github.com/global-health/data/blob/master/files/Data5.csv)): CSV file of the 2-mode network of IOs and practices with 4 columns (source, target, year, weight) and 2042 lines (occurrences)
+**> FILE 6** ([data5.xlsx](https://github.com/global-health/data/blob/master/files/Data5.xlsx)): XLSX (Excel) file of the IN/OUT reporting of the IOs, 2 years intervals (In, Out, Balance)
 
 ## PUBLICATIONS
 
