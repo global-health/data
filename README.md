@@ -25,11 +25,11 @@ To cite this data set:
 
 ### Network of International Organizations (1970-2017)
 
-**> FILE 3** ([data1.csv](https://github.com/global-health/data/blob/master/files/Data3.csv)): CSV file of the 1-mode network of IOs with 4 columns (source, target, year, weight) and 1021 lines (occurrences)
+**> FILE 3** ([data3.csv](https://github.com/global-health/data/blob/master/files/Data3.csv)): CSV file of the 1-mode network of IOs with 4 columns (source, target, year, weight) and 1021 lines (occurrences)
 
-**> FILE 4** ([data1.csv](https://github.com/global-health/data/blob/master/files/Data4.csv)): CSV file of the 2-mode network of IOs and practices with 4 columns (source, target, year, weight) and 2042 lines (occurrences)
+**> FILE 4** ([data4.csv](https://github.com/global-health/data/blob/master/files/Data4.csv)): CSV file of the 2-mode network of IOs and practices with 4 columns (source, target, year, weight) and 2042 lines (occurrences)
 
-**> FILE 5** ([data1.csv](https://github.com/global-health/data/blob/master/files/Network.gexf)): GEXF (Gephi) file of the 2-mode network of IOs and practices (1027 nodes, 2038 edges)
+**> FILE 5** ([network.gexf](https://github.com/global-health/data/blob/master/files/Network.gexf)): GEXF (Gephi) file of the 2-mode network of IOs and practices (1027 nodes, 2038 edges, 20499 lines)
 
 ## PUBLICATIONS
 
