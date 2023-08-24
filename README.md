@@ -35,6 +35,8 @@ To cite this data set:
 
 **> FILE 6** ([data5.xlsx](https://github.com/global-health/data/blob/master/files/Data5.xlsx)): XLSX (Excel) file of the IN/OUT reporting of the IOs, 2 years intervals (In, Out, Balance)
 
+**> FILE 7** ([data6.csv](https://github.com/global-health/data/blob/master/files/Data6.csv)): CSV file of the type of practices reported by IOs and involving other IOs (source, target, value), encoded to produce a Sankey diagram
+
 ## PUBLICATIONS
 
 Publications using these data sets:
