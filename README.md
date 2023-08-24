@@ -31,6 +31,10 @@ To cite this data set:
 
 **> FILE 5** ([network.gexf](https://github.com/global-health/data/blob/master/files/Network.gexf)): GEXF (Gephi) file of the 2-mode network of IOs and practices (1027 nodes, 2038 edges, 20499 lines)
 
+### IN/OUT Reporting by International Organizations (1970-2017)
+
+**> FILE 6** ([data5.csv](https://github.com/global-health/data/blob/master/files/Data5.csv)): CSV file of the 2-mode network of IOs and practices with 4 columns (source, target, year, weight) and 2042 lines (occurrences)
+
 ## PUBLICATIONS
 
 Publications using these data sets:
