@@ -40,6 +40,6 @@ To cite this data set:
 ## PUBLICATIONS
 
 Publications using these data sets:
-* BAHR Thurid, HOLZSCHEITER Anna and PANTZERHIELM Laura (2021). *Understanding Regime Complexes through a Practice Lens*, Global Governance, 27, 71-94. DOI 10.1163/19426720-02701005, https://brill.com/view/journals/gg/27/1/article-p71_4.xml
-* HOLZCHEITER Anna, BAHR Thurid, PANTZERHIELM Laura and GRANDJEAN Martin (forthcoming). *Positioning among International Organizations: Shifting Centers of Gravity in 
-Global Health Governance*, International Studies Quarterly.
+* BAHR Thurid, HOLZSCHEITER Anna and PANTZERHIELM Laura (2021). ***Understanding Regime Complexes through a Practice Lens***, Global Governance, 27, 71-94. DOI 10.1163/19426720-02701005, https://brill.com/view/journals/gg/27/1/article-p71_4.xml
+* HOLZCHEITER Anna, BAHR Thurid, PANTZERHIELM Laura and GRANDJEAN Martin (forthcoming). ***Positioning among International Organizations: Shifting Centers of Gravity in 
+Global Health Governance***, International Studies Quarterly.
