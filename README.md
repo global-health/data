@@ -14,7 +14,7 @@ Diachronic, inductive mapping of inter-organizational practices between eight ma
 
 To cite this data set: 
 
-> HOLZSCHEITER A., BAHR T., GRANDJEAN M. and PANTZERHIELM L. (2019). *Inter-Organizational Practices in Global Health*, Data set, https://github.com/global-health/data. DOI: [10.5281/zenodo.2587018](https://doi.org/10.5281/zenodo.2587018)
+> HOLZSCHEITER Anna, BAHR Thurid, GRANDJEAN Martin and PANTZERHIELM Laura (2019). *Inter-Organizational Practices in Global Health*, Data set, https://github.com/global-health/data. DOI: [10.5281/zenodo.2587018](https://doi.org/10.5281/zenodo.2587018)
 
 ## DATA
 ### Inter-organizational practices over time (1970-2013)
@@ -41,3 +41,5 @@ To cite this data set:
 
 Publications using these data sets:
 * BAHR Thurid, HOLZSCHEITER Anna and PANTZERHIELM Laura (2021). *Understanding Regime Complexes through a Practice Lens*, Global Governance, 27, 71-94. DOI 10.1163/19426720-02701005, https://brill.com/view/journals/gg/27/1/article-p71_4.xml
+* HOLZCHEITER Anna, BAHR Thurid, PANTZERHIELM Laura and GRANDJEAN Martin (forthcoming). *Positioning among International Organizations: Shifting Centers of Gravity in 
+Global Health Governance*, International Studies Quarterly.
