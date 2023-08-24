@@ -23,14 +23,15 @@ To cite this data set:
 
 **> FILE 2** ([data2.csv](https://github.com/global-health/data/blob/master/files/Data2.csv)): CSV file with 8 columns (practices aggregated in groups) and 44 lines (years)
 
-### Relations between international organizations (1970-2017)
+### Network of International Organizations (1970-2017)
 
-*N/A*
+**> FILE 3** ([data1.csv](https://github.com/global-health/data/blob/master/files/Data3.csv)): CSV file of the 1-mode network of IOs with 4 columns (source, target, year, weight) and 1021 lines (occurrences)
+
+**> FILE 4** ([data1.csv](https://github.com/global-health/data/blob/master/files/Data4.csv)): CSV file of the 2-mode network of IOs and practices with 4 columns (source, target, year, weight) and 2042 lines (occurrences)
+
+**> FILE 5** ([data1.csv](https://github.com/global-health/data/blob/master/files/Network.gexf)): GEXF (Gephi) file of the 2-mode network of IOs and practices (1027 nodes, 2038 edges)
 
 ## PUBLICATIONS
 
 Publications using these data sets:
 * BAHR Thurid, HOLZSCHEITER Anna and PANTZERHIELM Laura (2021). *Understanding Regime Complexes through a Practice Lens*, Global Governance, 27, 71-94. DOI 10.1163/19426720-02701005, https://brill.com/view/journals/gg/27/1/article-p71_4.xml
-
-
-<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/Illustration.png" alt="Data Visualization" width="" align="center">
