@@ -16,6 +16,8 @@ To cite this data set:
 
 > HOLZSCHEITER Anna, BAHR Thurid, GRANDJEAN Martin and PANTZERHIELM Laura (2019). *Inter-Organizational Practices in Global Health*, Data set, https://github.com/global-health/data. DOI: [10.5281/zenodo.2587018](https://doi.org/10.5281/zenodo.2587018)
 
+See also the [ISQ Instruction File](https://github.com/global-health/data/blob/master/instructionfile.md)
+
 ## DATA
 ### Inter-organizational practices over time (1970-2013)
 
