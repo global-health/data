@@ -13,7 +13,7 @@ For practices to appear in the network (and not just IOs), however, it is necess
 Download **Data4.csv**. Open Gephi and create a new project. In the *Data Laboratory*, click on *Import spreadsheet* and select **Data4.csv**. Make sure the software understand that this is an Edges table and import it in the current workspace (*append to existing workspace*). Go to the *Overview* interface, where the *Context* panel shows that you now have 1027 nodes and 2038 edges. In the *Statistics* panel, run the *Avg. Weighted Degree* metric, then use this metric in the *Appearance* panel to change the size of the nodes (click on "nodes", then "size" - the triple circle logo -, then "ranking", then select "Weighted degree" in the drop-down menu): 5-100 for Min/Max size, then click *Apply*. Then, go to the *Layout* panel and chose "ForceAtlas 2" in the drop-down menu: change the *Scaling* to 50 and check *Prevent Overlap*, then click on *Run*. 
 With these settings, you have a perfectly legible network. To obtain a result similar to figure 1, you then need to work on the details. For example, to display the node names, duplicate the *ID* column in the *Label* column in the *Data Laboratory* Nodes table. Or by giving different colours to the IOs to distinguish them from the practices (this can be done manually, since there are few of them and they are the most connected nodes, or by adding an attribute to these nodes in the node table, or by automatically detecting the bipartition of the graph with a plugin like *Multimode Network Transformation*).
 
-<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/screenshot1.png" width="400"/>
+<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/screenshot1.png" width="500"/>
 
 #### Option 2: simply open the Gephi file provided
 
@@ -23,14 +23,14 @@ To simplify replication and subsequent analysis, we also provide this network da
 
 *Figure 2* simply consists of versions of *Figure 1* filtered by date to give 5-year intervals. Simply open **network.gexf** as described above and head to the *filters* panel on the right side of the *Overview* interface. Double click on *Attributes*, then on *Range*, then on *year Integer (Edge)*. This opens a little *Range (year) Settings* selection tool at the bottom where you can move the slider to cover 1970-1974 for the first interval (and then click *Filter*), or 1975-1979, 1980-1984, etc. This will remove all the edges that are not occurring during the selected period. This does not remove all the nodes that are not connected anymore (practices that occurs during another period), you can easily remove them by running a new *Avg. Weighted Degree* calculation in the *Statistics* panel and then filter the Nodes table in the *Data Laboratory* according to this attribute and delete all the nodes that scores 0. Removing nodes is not recommended if you still want to experiment with these filters (it is recommended to save the Gephi project before this step, to be able to repeat the operation).
 
-<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/screenshot2.png" width="400"/>
+<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/screenshot2.png" width="500"/>
 
 ## In/Out reporting
 ### Figure 3
 
 The **Data5.xlsx** file aggregates all the lines in the Data3.csv file at IO level and for two-year periods. The visualizations in *Figure 3* were produced directly in Microsoft Excel. Just take the 2 columns of a specific IO and create a line or surface chart.
 
-<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/screenshot3.png" width="400"/>
+<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/screenshot3.png" width="500"/>
 
 ## Sankey diagram
 
@@ -39,4 +39,4 @@ The **Data5.xlsx** file aggregates all the lines in the Data3.csv file at IO lev
 The **Data6.csv** file is used to produce *Figure 4*, which aggregates practices at the IO level but retains the details of their classification. The latter information comes from the data produced for a previous paper ([Bahr et al. 2021](https://brill.com/view/journals/gg/27/1/article-p71_4.xml)), which focused on practice categories. You can access the raw data in **Data1.csv** and **Data2.csv**, but we prepared **Data6.csv** in a way that makes it easier to visualise as a Sankey diagram.
 Once again, therefore, this is a bipartite edge file (IOs and practice categories), which can be visualized with Gephi or, as in the case of *Figure 4*, with an online Sankey-producing tool. Go to [sankey-diagram-generator.acquireprocure.com](http://sankey-diagram-generator.acquireprocure.com/) and click on *Load* -> *Your own data* on the top left of the interface. Then select *CSV* and copy-paste the content of **Data6.csv** in the field and click *Build Sankey*. You now have an interactive but rather raw version of *Figure 4*, that was then exported in SVG and edited in Inkscape to match the colors of the previous figures. Note that the bubbles in the center (meant to show that these categories also have sub-categories) have been added directly in Inkscape and are exactly the bubbles displayed in the figures of our 2021 paper. 
 
-<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/screenshot4.png" width="400"/>
+<img src="https://raw.githubusercontent.com/global-health/data/master/pictures/screenshot4.png" width="500"/>
